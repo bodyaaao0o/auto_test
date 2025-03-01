@@ -1,0 +1,8 @@
+com\bohdanjj\pages\AboutUsPage.class
+com\bohdanjj\pages\BasePage.class
+com\bohdanjj\Main.class
+com\bohdanjj\pages\TechStackPage.class
+com\bohdanjj\pages\HomePage.class
+com\bohdanjj\utils\WebDriverManager.class
+com\bohdanjj\pages\ContactUs.class
+com\bohdanjj\utils\ConfigReader.class
